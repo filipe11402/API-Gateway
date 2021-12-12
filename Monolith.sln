@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monolith", "Monolith\Monolith.csproj", "{BBFFBF8F-B947-429A-BA92-378DB0DD67A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Gateway", "API-Gateway\API-Gateway.csproj", "{EE4B5585-9681-4EC2-B5AB-DB0DD56EAFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFFBF8F-B947-429A-BA92-378DB0DD67A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFFBF8F-B947-429A-BA92-378DB0DD67A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFFBF8F-B947-429A-BA92-378DB0DD67A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFFBF8F-B947-429A-BA92-378DB0DD67A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4B5585-9681-4EC2-B5AB-DB0DD56EAFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B5585-9681-4EC2-B5AB-DB0DD56EAFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4B5585-9681-4EC2-B5AB-DB0DD56EAFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4B5585-9681-4EC2-B5AB-DB0DD56EAFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984A3771-3F2C-470C-9D04-296FAA1F51F0}
+	EndGlobalSection
+EndGlobal
