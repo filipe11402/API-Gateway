@@ -21,7 +21,7 @@ namespace API_Gateway
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.ConfigureAppConfiguration(token => token.AddJsonFile(Path.Combine("configs/ocelotSettings.json")));
+                    webBuilder.ConfigureAppConfiguration(token => token.AddJsonFile("configs/ocelotSettings.json"));
                     webBuilder.UseStartup<Startup>();
                 });
     }

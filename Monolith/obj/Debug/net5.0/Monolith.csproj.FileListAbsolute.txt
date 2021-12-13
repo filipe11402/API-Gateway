@@ -27,3 +27,32 @@ C:\Users\filip\Desktop\stuff\C#\Monolith\Monolith\obj\Debug\net5.0\Monolith.dll
 C:\Users\filip\Desktop\stuff\C#\Monolith\Monolith\obj\Debug\net5.0\ref\Monolith.dll
 C:\Users\filip\Desktop\stuff\C#\Monolith\Monolith\obj\Debug\net5.0\Monolith.pdb
 C:\Users\filip\Desktop\stuff\C#\Monolith\Monolith\obj\Debug\net5.0\Monolith.genruntimeconfig.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\appsettings.json
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.exe
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.deps.json
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.runtimeconfig.json
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.runtimeconfig.dev.json
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\ref\Monolith.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Monolith.pdb
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.csproj.AssemblyReference.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.AssemblyInfoInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.AssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\staticwebassets\Monolith.StaticWebAssets.Manifest.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\staticwebassets\Monolith.StaticWebAssets.xml
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\scopedcss\bundle\Monolith.styles.css
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.RazorTargetAssemblyInfo.cache
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.csproj.CopyComplete
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\ref\Monolith.dll
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.pdb
+C:\Users\Filipe Encarnacao\Desktop\API-Gateway\Monolith\obj\Debug\net5.0\Monolith.genruntimeconfig.cache

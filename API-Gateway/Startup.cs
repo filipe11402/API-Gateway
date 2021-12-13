@@ -50,14 +50,14 @@ namespace API_Gateway
 
             app.UseRouting();
 
+            app.UseOcelot().Wait();
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
-
-            app.UseOcelot().Wait();
         }
     }
 }
